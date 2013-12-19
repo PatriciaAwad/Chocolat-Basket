@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a4c7f69-7d3f-4005-9d4a-4a1260c8869c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iim/ChocolateBundle/Entity/Admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iim/ChocolateBundle/Entity/Article.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iim/ChocolateBundle/Entity/User.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Chocolat-Basket.iws" />
@@ -30,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="routing.yml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="25" selection-start="846" selection-end="846" vertical-scroll-proportion="0.9353612" vertical-offset="52" max-vertical-offset="646">
+            <state line="32" column="25" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="646">
               <folding />
             </state>
           </provider>
@@ -102,10 +97,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Admin.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Admin.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/iim/ChocolateBundle/Entity/Admin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="64" selection-end="64" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
+            <state line="9" column="0" selection-start="64" selection-end="64" vertical-scroll-proportion="0.306" vertical-offset="0" max-vertical-offset="500">
               <folding />
             </state>
           </provider>
@@ -355,7 +350,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="5" width="1346" height="728" extended-state="0" />
+    <frame x="10" y="5" width="1346" height="728" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -404,20 +399,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/iim/ChocolateBundle/Entity/Article.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="6" selection-start="287" selection-end="287" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="2839">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/iim/ChocolateBundle/Entity/Admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="64" selection-end="64" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/security.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
@@ -462,7 +443,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="25" selection-start="846" selection-end="846" vertical-scroll-proportion="0.9353612" vertical-offset="52" max-vertical-offset="646">
+        <state line="32" column="25" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iim/ChocolateBundle/Entity/Article.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="6" selection-start="287" selection-end="287" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="2839">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iim/ChocolateBundle/Entity/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="64" selection-end="64" vertical-scroll-proportion="0.306" vertical-offset="0" max-vertical-offset="500">
           <folding />
         </state>
       </provider>
