@@ -1,0 +1,6 @@
+iim_chocolate:
+    resource: "@iimChocolateBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+home
