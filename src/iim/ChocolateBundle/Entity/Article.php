@@ -3,7 +3,7 @@
 namespace iim\ChocolateBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
-//use Knp\DoctrineBehaviors\Model as ORMBehaviors;
+use Knp\DoctrineBehaviors\Model as ORMBehaviors;
 
 /**
  * Article
@@ -13,7 +13,7 @@ use Doctrine\ORM\Mapping as ORM;
  */
 class Article
 {
-   // use ORMBehaviors\Timestampable\Timestampable;
+   use ORMBehaviors\Timestampable\Timestampable;
 
     /**
      * @var integer

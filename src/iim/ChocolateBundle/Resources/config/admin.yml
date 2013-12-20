@@ -1,0 +1,6 @@
+services:
+    iim.chocolate.admin.article:
+      class: iim\ChocolateBundle\Admin\ArticleAdmin
+      tags:
+        - { name: sonata.admin, manager_type: orm, group: Chocolate, label: Articles}
+      arguments: [null, iim\ChocolateBundle\Entity\Article,SonataAdminBundle:CRUD]
